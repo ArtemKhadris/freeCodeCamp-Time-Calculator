@@ -6,7 +6,7 @@ Solution of freeCodeCamp problem.
 
 My solution: 
 
----
+[![Run on Repl.it](https://repl.it/badge/github/ArtemKhadris/freeCodeCamp-Time-Calculator)](https://repl.it/github/ArtemKhadris/freeCodeCamp-Time-Calculator)
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
 * a start time in the 12-hour clock format (ending in AM or PM) 
