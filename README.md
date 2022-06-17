@@ -1,4 +1,4 @@
-# freeCodeCamp-Time-Calculator
+# freeCodeCamp Time Calculator
 
 Solution of freeCodeCamp problem.
 
